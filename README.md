@@ -1,5 +1,7 @@
-# Monte Carlo Methods
+<img src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png" width="200" />
 
-### Instructions
+# RLND Monte Carlo Methods
 
-Follow the instructions in `Monte_Carlo.ipynb` to write your own implementations of many Monte Carlo methods!  The corresponding solutions can be found in `Monte_Carlo_Solution.ipynb`.  
+Practical implementation of monte carlo methods for reinforcement learning on a toy problem called Blackjack.
+
+The main file where implementations are found is the `Monte_Carlo.ipynb` file, which is run in Jupyter Notebook.
